@@ -1,16 +1,5 @@
-# Topics in Software Engineering
+# AI Powered Phishing Detector 
+Currently, scam and phishing messages and emails are on the rise, flooding our inboxes and devices. It is also easier than ever to create convincing and error-free scam messages with the help of AI, making them harder and harder to recognize each day. And so, we must fight fire with fire; building an AI system that detects AI phishing attempts and certainly regular ones.
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
-
-# Tools
-The tools that are installed with this devcontainer are:
-
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+# For everyone in the digital age
+This application is targeted towards anyone with a phone or email; specifically young and senior users who more seceptible to online scams. It is designed to help users recognize sketchy and fraudulent messages.
